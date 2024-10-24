@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marktayar
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning microengineering
+- 👀 I’m interested in Quant Finance
+- 🌱 I’m currently studying Financial Engineering
 - 📫 How to reach me : email : marktayar@gmail.com
 
 <!---
